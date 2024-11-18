@@ -13,7 +13,7 @@
 
 
 / {
-keymap0: keymap {
+keymap {
   compatible = "zmk,keymap";
 
   default_layer {
